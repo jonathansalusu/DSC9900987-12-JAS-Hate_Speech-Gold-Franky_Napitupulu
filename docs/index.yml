@@ -1,0 +1,11 @@
+tags:
+  - name: get all data
+get:
+  description: get all data
+responses:
+  '200':
+    description: Successful response
+  '400':
+    description: Bad Request
+  '500':
+    description: Internal Server Error
